@@ -1,0 +1,37 @@
+h1 {
+  color: #FFA842;
+}
+
+body {
+  background-color: #B2A08B;
+  font: #79A1B2;
+  text-align: center;
+}
+
+#gameAnnouncement {
+  border: 5px dashed silver;
+  height: 20px;
+  width: 200px;
+  margin: auto;
+  padding: 5px;
+}
+
+.siao {
+  height: 20px;
+}
+
+.grid {
+  height: 100px;
+  width:100px;
+  border: 5px solid #FFA842;
+  border-radius: 10%;
+  background-color: #C6EEFF;
+  display: inline-block;
+  padding: -5px;
+  font-size: 60px;
+  vertical-align: top;
+}
+
+.row {
+  color: purple;
+}
